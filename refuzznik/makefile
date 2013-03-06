@@ -17,7 +17,7 @@
 # DEALINGS IN THE SOFTWARE.
 
 # Version number variables.
-plugversion := 0.5.3
+plugversion := 0.5.4
 
 # Directory variables.
 sdkdir := /c/code/c/vstsdk2.3/source/common
