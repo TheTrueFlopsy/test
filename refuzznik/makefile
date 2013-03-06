@@ -18,6 +18,7 @@
 
 # Version number variables.
 # This number was incremented recently.
+# One more test.
 plugversion := 0.5.4
 
 # Directory variables.
