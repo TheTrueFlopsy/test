@@ -1,0 +1,5 @@
+LIBRARY Refuzznik
+DESCRIPTION "The Refuzznik VST plug-in"
+EXPORTS
+main=main_gcc @1
+main_gcc @2
