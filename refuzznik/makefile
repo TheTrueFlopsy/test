@@ -17,6 +17,7 @@
 # DEALINGS IN THE SOFTWARE.
 
 # Version number variables.
+# This number was incremented recently.
 plugversion := 0.5.4
 
 # Directory variables.
